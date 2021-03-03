@@ -21,6 +21,8 @@ body {
   padding: 5px;
   padding-bottom: 70px;
   margin-top: 10px;
+  overflow: hidden;
+  clear: right;
 }
 .note2 {
   border: 4px solid #c2e9e9;
@@ -28,6 +30,8 @@ body {
   padding: 5px;
   padding-bottom: 20px;
   margin-top: 10px;
+  overflow: hidden;
+  clear: right;
 }
 .date {
   margin-left: 1px;
