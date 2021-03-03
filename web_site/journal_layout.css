@@ -40,6 +40,17 @@ body {
 img {
   float: right;
 }
-/* .h-txt{
-    float: right;
-} */
+#all-notes {
+  margin-left: 200px;
+}
+#exercise6 {
+  border: 5px #17a6ad solid;
+  background-color: #9de2e2;
+  padding: 5px;
+  margin-top: 5px;
+  float: left;
+  width: 150px;
+}
+* *:hover {
+  background-color: yellow;
+}
